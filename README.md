@@ -21,7 +21,8 @@
 ## 🌟 About Me  
 
 > “Code is not just my skill — it’s my canvas for innovation.”  
-> “Every setback is just a new version update.”  
+> "I see code not just as logic, but as a language of creation."  
+> “Every setback is just a new version update.”
 
 I am a **passionate Computer Science explorer**, stepping ahead into my degree with unwavering curiosity and determination. My journey so far reflects a balance of **discipline, creativity, and resilience** — from solving logical problems and crafting apps to presenting research and competing in hackathons.  
 
@@ -81,15 +82,15 @@ Published *Smart Campus Hub* in **IRJMETS Journal** (DOI: 10.56726/IRJMETS70156)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Surywanshi&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh-Surywanshi&theme=radical" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Prathmesh-Surywanshi&theme=tokyonight&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Surywanshi&show_icons=true&theme=tokyonight&count_private=true" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathmesh-Surywanshi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathmesh-Surywanshi&theme=github_dark&count_private=true" />
 </p>
 
 ---
