@@ -88,7 +88,7 @@ Published *Smart Campus Hub* in **IRJMETS Journal** (DOI: 10.56726/IRJMETS70156)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prathmesh-Surywanshi&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Surywanshi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats-yourapp.vercel.app/api?username=Prathmesh-Surywanshi&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
